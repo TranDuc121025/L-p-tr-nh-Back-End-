@@ -1,0 +1,14 @@
+D:\LAB\LapTrinhBackEnd\ConsoleApp1\LAB02\LAB02\bin\Debug\net8.0\LAB02.exe
+D:\LAB\LapTrinhBackEnd\ConsoleApp1\LAB02\LAB02\bin\Debug\net8.0\LAB02.deps.json
+D:\LAB\LapTrinhBackEnd\ConsoleApp1\LAB02\LAB02\bin\Debug\net8.0\LAB02.runtimeconfig.json
+D:\LAB\LapTrinhBackEnd\ConsoleApp1\LAB02\LAB02\bin\Debug\net8.0\LAB02.dll
+D:\LAB\LapTrinhBackEnd\ConsoleApp1\LAB02\LAB02\bin\Debug\net8.0\LAB02.pdb
+D:\LAB\LapTrinhBackEnd\ConsoleApp1\LAB02\LAB02\obj\Debug\net8.0\LAB02.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB\LapTrinhBackEnd\ConsoleApp1\LAB02\LAB02\obj\Debug\net8.0\LAB02.AssemblyInfoInputs.cache
+D:\LAB\LapTrinhBackEnd\ConsoleApp1\LAB02\LAB02\obj\Debug\net8.0\LAB02.AssemblyInfo.cs
+D:\LAB\LapTrinhBackEnd\ConsoleApp1\LAB02\LAB02\obj\Debug\net8.0\LAB02.csproj.CoreCompileInputs.cache
+D:\LAB\LapTrinhBackEnd\ConsoleApp1\LAB02\LAB02\obj\Debug\net8.0\LAB02.dll
+D:\LAB\LapTrinhBackEnd\ConsoleApp1\LAB02\LAB02\obj\Debug\net8.0\refint\LAB02.dll
+D:\LAB\LapTrinhBackEnd\ConsoleApp1\LAB02\LAB02\obj\Debug\net8.0\LAB02.pdb
+D:\LAB\LapTrinhBackEnd\ConsoleApp1\LAB02\LAB02\obj\Debug\net8.0\LAB02.genruntimeconfig.cache
+D:\LAB\LapTrinhBackEnd\ConsoleApp1\LAB02\LAB02\obj\Debug\net8.0\ref\LAB02.dll
