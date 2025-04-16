@@ -1,0 +1,14 @@
+D:\LAB\LapTrinhBackEnd\LAB1\LAB1\obj\Debug\net8.0\LAB1.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB\LapTrinhBackEnd\LAB1\LAB1\obj\Debug\net8.0\LAB1.AssemblyInfoInputs.cache
+D:\LAB\LapTrinhBackEnd\LAB1\LAB1\obj\Debug\net8.0\LAB1.AssemblyInfo.cs
+D:\LAB\LapTrinhBackEnd\LAB1\LAB1\obj\Debug\net8.0\LAB1.csproj.CoreCompileInputs.cache
+D:\LAB\LapTrinhBackEnd\LAB1\LAB1\bin\Debug\net8.0\LAB1.exe
+D:\LAB\LapTrinhBackEnd\LAB1\LAB1\bin\Debug\net8.0\LAB1.deps.json
+D:\LAB\LapTrinhBackEnd\LAB1\LAB1\bin\Debug\net8.0\LAB1.runtimeconfig.json
+D:\LAB\LapTrinhBackEnd\LAB1\LAB1\bin\Debug\net8.0\LAB1.dll
+D:\LAB\LapTrinhBackEnd\LAB1\LAB1\bin\Debug\net8.0\LAB1.pdb
+D:\LAB\LapTrinhBackEnd\LAB1\LAB1\obj\Debug\net8.0\LAB1.dll
+D:\LAB\LapTrinhBackEnd\LAB1\LAB1\obj\Debug\net8.0\refint\LAB1.dll
+D:\LAB\LapTrinhBackEnd\LAB1\LAB1\obj\Debug\net8.0\LAB1.pdb
+D:\LAB\LapTrinhBackEnd\LAB1\LAB1\obj\Debug\net8.0\LAB1.genruntimeconfig.cache
+D:\LAB\LapTrinhBackEnd\LAB1\LAB1\obj\Debug\net8.0\ref\LAB1.dll
